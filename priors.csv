@@ -1,0 +1,13 @@
+Node,State,Probability
+Humidity,Low,0.300000
+Humidity,Medium,0.450000
+Humidity,High,0.250000
+NDVI,Good,0.500000
+NDVI,Moderate,0.350000
+NDVI,Poor,0.150000
+Pheromone,Low,0.600000
+Pheromone,Medium,0.300000
+Pheromone,High,0.100000
+CropMaturity,Early,0.250000
+CropMaturity,Mid,0.500000
+CropMaturity,Late,0.250000
